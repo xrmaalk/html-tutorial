@@ -1,0 +1,16 @@
+{
+  "name": "html-tutorial",
+  "version": "1.0.0",
+  "description": "html-tutorial-fullstack-dev-day-7",
+  "main": "./public/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "html",
+    "tutorial",
+    "index"
+  ],
+  "author": "maaltech",
+  "license": "ISC"
+}
